@@ -1,0 +1,7 @@
+ 🔔  Aşağıda yer alan kütüphaneler yalnızca projeyi (v1.0.2)EnginARSLAN-AtamaYesili.py dosyası ile geliştirecek kişilerin gereksinim duyduğu kütüphanelerdir ve bu kütüphaneler CMD, PowerShell gibi bir komut ara yüzü aracılığıyla projelerine (pip install kutuphaneAdi) şeklinde indirmelidirler.
+
+1) selenium (Tarayıcı üzerinden veri çekmek için)
+2) openpyxl (Excel çıktıları için)
+3) pyinstaller (Python dosyasını exe dosyasına çevirmek için)
+
+⚠️  Projeyi tıkla-çalıştır mantığıyla kullanacak kişilerin extra bir şey yapmasına gerek yoktur.
