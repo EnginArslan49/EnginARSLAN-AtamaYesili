@@ -125,8 +125,6 @@ Tarama işlemi sırasında uygulama arayüzünden botların durumları ve işlem
 6. Tarama tamamlandığında oluşturulan TXT raporunu açın.
 7. Rapordaki ilan bağlantılarını inceleyerek başvuru koşullarını Kariyer Kapısı üzerinden kontrol edin.
 
-> Windows SmartScreen veya antivirüs yazılımı, imzasız ya da az bilinen uygulamalar için güvenlik uyarısı gösterebilir. Dosyayı yalnızca projenin resmî GitHub Releases sayfasından indirin. Güvenilirliğini doğrulamadığınız dosyaları çalıştırmayın.
-
 ---
 
 ## 📊 TXT Rapor Formatı
