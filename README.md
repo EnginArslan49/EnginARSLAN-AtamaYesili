@@ -1,4 +1,4 @@
-# 🌱 Engin ARSLAN ile Atanma Yeşili
+🌱 Engin ARSLAN ile Atama Yeşili
 
 <p align="center">
   <strong>Kariyer Kapısı ilanlarını otomatik tarayan, eğitim kriterlerinize uygun ilanları Excel veya TXT raporuna dönüştüren Windows masaüstü uygulaması.</strong>
@@ -34,9 +34,10 @@
 
 ---
 
+<a id="proje-hakkinda"></a>
 ## 📌 Proje Hakkında
 
-**Engin ARSLAN ile Atanma Yeşili**, Kariyer Kapısı platformunda yayımlanan kamu personeli alım ilanlarını belirlenen eğitim kriterlerine göre otomatik olarak taramak ve uygun ilanları Excel veya TXT raporu hâlinde sunmak amacıyla geliştirilmiş bir Windows masaüstü uygulamasıdır.
+**Engin ARSLAN ile Atama Yeşili**, Kariyer Kapısı platformunda yayımlanan kamu personeli alım ilanlarını belirlenen eğitim kriterlerine göre otomatik olarak taramak ve uygun ilanları Excel veya TXT raporu hâlinde sunmak amacıyla geliştirilmiş bir Windows masaüstü uygulamasıdır.
 
 Uygulama, özellikle aşağıdaki eğitim kriterlerine yönelik ilanları takip etmek isteyen kullanıcılar için hazırlanmıştır:
 
@@ -49,6 +50,7 @@ Uygulama sayesinde kullanıcılar hangi eğitim kriterlerini taramak istedikleri
 
 ---
 
+<a id="uygulamayi-indir"></a>
 ## ⬇️ Uygulamayı İndir
 
 <p align="center">
@@ -70,6 +72,7 @@ Uygulama sayesinde kullanıcılar hangi eğitim kriterlerini taramak istedikleri
 
 ---
 
+<a id="ozellikler"></a>
 ## ✨ Özellikler
 
 ### 🔍 Otomatik İlan Tarama
@@ -114,7 +117,8 @@ Uygulama sayesinde kullanıcılar hangi eğitim kriterlerini taramak istedikleri
 
 ---
 
-## ⚙️ Nasıl Çalışır?
+<a id="nasil-calisir"></a>
+## ⚙️ Nasıl Çalışır? (v1.0.3'e göre)
 
 Uygulamanın çalışma süreci iki ana aşamadan oluşur.
 
@@ -150,6 +154,7 @@ Tarama ekranında:
 
 ---
 
+<a id="sistem-gereksinimleri"></a>
 ## 💻 Sistem Gereksinimleri
 
 | Gereksinim | Açıklama |
@@ -165,6 +170,7 @@ Tarama ekranında:
 
 ---
 
+<a id="kullanim"></a>
 ## 🚀 Kullanım
 
 1. [Güncel sürümün indirme sayfasını](https://github.com/EnginArslan49/EnginARSLAN-AtamaYesili/releases/tag/v1.0.3) açın.
@@ -177,10 +183,9 @@ Tarama ekranında:
 8. Tarama tamamlandığında oluşturulan rapor dosyasını açın.
 9. Rapordaki ilan bağlantılarını inceleyerek başvuru koşullarını Kariyer Kapısı üzerinden kontrol edin.
 
-> Windows SmartScreen veya antivirüs yazılımı, imzasız ya da az bilinen uygulamalar için güvenlik uyarısı gösterebilir. Dosyayı yalnızca projenin resmî GitHub Releases sayfasından indirin. Güvenilirliğini doğrulamadığınız dosyaları çalıştırmayın.
-
 ---
 
+<a id="rapor-formatlari"></a>
 ## 📊 Rapor Formatları
 
 Uygulama, kullanıcı tercihine göre iki farklı rapor formatı sunar.
@@ -209,7 +214,7 @@ TXT formatı tercih edildiğinde:
 
 ```text
 ============================================================
-             Engin ARSLAN ile Atanma Yeşili
+             Engin ARSLAN ile Atama Yeşili
 ============================================================
 
 Tarih: 13.10.2026 14:35
@@ -239,27 +244,31 @@ MEZUN OLMAK ŞARTLI İLANLAR
 - Başvuru tarihlerini ve son başvuru saatini doğrulayın.
 - İlanın güncel durumunu Kariyer Kapısı üzerinden kontrol edin.
 
-Uygulamanın bir ilanı raporlaması, o ilana kesin olarak başvurabileceğiniz veya atanabileceğiniz anlamına gelmez.
+Uygulamanın bir ilanı raporlaması, o ilana kesin olarak başvurabileceğiniz veya atanabileceğiniz anlamına gelmez. Başvuru ekranını açarak özel başvuru şartı varsa kontrol etmeniz gerekmektedir. Proje yalnızca belirtmiş olduğunuz ilanları filtreleyip sonucu karşınıza getirmektedir.
 
 ---
 
+<a id="surumler"></a>
 ## 📦 Sürümler
 
 ### v1.0.3 – Güncel Sürüm
 
 **Kurulum ve ekran geçişleri**
+
 - İki aşamalı Wizard (Sihirbaz) ekranı eklendi.
 - Uygulama açılışında Kurulum ekranı gösterilmeye başlandı.
 - Kurulum ekranından tarama ekranına geçiş için kayma (slide) animasyonu eklendi.
 - Ayarlar butonuyla tarama ekranından kurulum ekranına geri dönme özelliği eklendi.
 
 **Arama kriterleri**
+
 - Kullanıcının arama kriterlerini dinamik olarak seçebilmesi sağlandı.
 - Bilgisayar Programcılığı ve herhangi bir önlisans kriterleri varsayılan olarak seçili hâle getirildi.
 - Genel durum panosu seçilen kriterlere göre dinamikleştirildi.
 - Seçilmeyen kriterlerin sayaçları gizlendi.
 
 **Çıktı seçenekleri**
+
 - Excel (.xlsx) raporlama desteği eklendi.
 - TXT raporlama seçeneği korundu.
 - Excel varsayılan çıktı formatı olarak belirlendi.
@@ -268,16 +277,18 @@ Uygulamanın bir ilanı raporlaması, o ilana kesin olarak başvurabileceğiniz 
 - TXT raporunda yalnızca seçilen kriterlerin bölümlerinin oluşturulması sağlandı.
 
 **Arayüz ve tema**
+
 - Karanlık ve aydınlık tema uyumluluğu geliştirildi.
 - RadioButton, CheckButton ve log alanlarının tema uyumsuzlukları giderildi.
 - Tema butonunun metni geçiş yapılacak temayı gösterecek şekilde değiştirildi.
 - Log yazı renkleri açık temada siyah, koyu temada beyaz olacak şekilde düzenlendi.
 
 **Güvenlik ve kararlılık**
+
 - Uygulama kapatılırken Chrome pencerelerinin güvenli şekilde kapatılması sağlandı.
 - Arka planda açık kalan Chrome pencereleriyle ilgili sorunlar için kapatma koruması eklendi.
 
-[ v1.0.3 Sürüm Sayfası ](https://github.com/EnginArslan49/EnginARSLAN-AtamaYesili/releases/tag/v1.0.3)
+[v1.0.3 Sürüm Sayfası](https://github.com/EnginArslan49/EnginARSLAN-AtamaYesili/releases/tag/v1.0.3)
 
 ### v1.0.2
 
@@ -291,7 +302,7 @@ Uygulamanın bir ilanı raporlaması, o ilana kesin olarak başvurabileceğiniz 
 - Tarama sonuçlarının birleştirilmesi.
 - Tekrar eden ilan kayıtlarının temizlenmesi.
 
-[ v1.0.2 Sürüm Sayfası ](https://github.com/EnginArslan49/EnginARSLAN-AtamaYesili/releases/tag/v1.0.2)
+[v1.0.2 Sürüm Sayfası](https://github.com/EnginArslan49/EnginARSLAN-AtamaYesili/releases/tag/v1.0.2)
 
 ### v1.0.1 – İlk Sürüm
 
@@ -302,10 +313,11 @@ Uygulamanın bir ilanı raporlaması, o ilana kesin olarak başvurabileceğiniz 
 - Tarama sürecinin uygulama arayüzünden takip edilmesi.
 - Tarama tamamlandığında Chrome penceresinin kapatılması.
 
-[ v1.0.1 Sürüm Sayfası ](https://github.com/EnginArslan49/EnginARSLAN-AtamaYesili/releases/tag/v1.0.1)
+[v1.0.1 Sürüm Sayfası](https://github.com/EnginArslan49/EnginARSLAN-AtamaYesili/releases/tag/v1.0.1)
 
 ---
 
+<a id="onemli-bilgilendirme"></a>
 ## ⚠️ Önemli Bilgilendirme
 
 - Bu uygulama bağımsız bir projedir; Kariyer Kapısı'nın resmî uygulaması değildir.
@@ -314,11 +326,12 @@ Uygulamanın bir ilanı raporlaması, o ilana kesin olarak başvurabileceğiniz 
 - İlanların içeriği, uygunluk şartları ve başvuru tarihleri zaman içinde değişebilir.
 - Tarama sonuçları teknik veya içerik kaynaklı nedenlerle eksik olabilir.
 - İnternet bağlantısı, Kariyer Kapısı'nın erişilebilirliği ve sayfa yapısındaki değişiklikler tarama performansını etkileyebilir.
-- Uygulama başvuru yapmaz, kullanıcı adına işlem gerçekleştirmez ve atanma garantisi vermez.
+- Uygulama başvuru yapmaz, kullanıcı adına işlem gerçekleştirmez ve Atama garantisi vermez.
 - Nihai uygunluk değerlendirmesi ilgili kurumun yayımladığı resmî ilan metnine göre yapılmalıdır.
 
 ---
 
+<a id="kullanim-kosullari"></a>
 ## 📜 Kullanım Koşulları
 
 Bu proje kişisel ve eğitim amaçlı geliştirilmiştir.
@@ -328,10 +341,10 @@ Bu proje kişisel ve eğitim amaçlı geliştirilmiştir.
 - Uygulama yeniden dağıtılırken geliştirici ve proje kaynağı belirtilmelidir.
 - Uygulamanın değiştirilmiş sürümleri, orijinal proje ile karıştırılmayacak şekilde paylaşılmalıdır.
 
-Bu bölüm proje sahibinin kullanım tercihlerini açıklar. Ayrı bir `LICENSE` dosyası bulunmadığı sürece, burada yazan ifadeler kapsamlı ve standart bir açık kaynak lisansının yerine geçmez.
 
 ---
 
+<a id="iletisim-ve-sosyal-medya"></a>
 ## 📱 İletişim ve Sosyal Medya
 
 Projeyle ilgili görüş, öneri, hata bildirimi ve geliştirme talepleri için aşağıdaki kanalları kullanabilirsiniz.
@@ -352,9 +365,5 @@ Projeyle ilgili görüş, öneri, hata bildirimi ve geliştirme talepleri için 
 </p>
 
 <p align="center">
-  <strong>Geliştirici: Engin ARSLAN</strong>
-</p>
-
-<p align="center">
-  <sub>Engin ARSLAN tarafından geliştirilmiştir.</sub>
+  <strong>Saygılarımla <sub> Engin ARSLAN</sub></strong>
 </p>
